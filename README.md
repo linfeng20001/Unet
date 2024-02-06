@@ -162,5 +162,4 @@ You must give your data directory and the directory you want to save your model 
 
 By the end of the training your model will be saved into the `MODEL_SAVE_PATH`.
 
-## Contact <a class="anchor" id="contact"></a>
-You can contact me with this email address: uygarsci@gmail.com
+
